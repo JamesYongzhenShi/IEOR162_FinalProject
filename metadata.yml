@@ -1,0 +1,18 @@
+---
+:id: 217036170
+:submitters:
+- :name: Sera Goksal
+  :email: sera.goksal@berkeley.edu
+- :name: Yongzhen Shi
+  :email: syz0516@berkeley.edu
+- :name: Yang Lu
+  :email: yanglu24@berkeley.edu
+- :name: Angelina Bai
+  :email: ybai@berkeley.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2023-12-02 06:49:26.216613000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2023-12-01 22:49:26.216613000 Z
+:status: processed
+:score: 100.0
